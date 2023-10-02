@@ -1,0 +1,3 @@
+1. difference between push_back and emplace_back in container
+2. calling push_back results in destructor
+3. Rule of Three is important for copy constructor, assignment and destructor
